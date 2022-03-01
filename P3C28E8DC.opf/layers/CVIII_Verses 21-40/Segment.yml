@@ -1,0 +1,104 @@
+id: 513b7e08ce434a47864d64d82e4b3f9c
+annotation_type: Segment
+revision: '00001'
+annotations:
+  d7b2f84908124b4a9691d4dde29df220:
+    span:
+      start: 0
+      end: 21
+    metadata: {}
+  f533916628f44384963f9e8653c719a9:
+    span:
+      start: 24
+      end: 45
+    metadata: {}
+  c7fbf5e0fe70470b892a539f43cde4df:
+    span:
+      start: 48
+      end: 69
+    metadata: {}
+  60bbc190d2ff43c380799e25526ba15e:
+    span:
+      start: 72
+      end: 93
+    metadata: {}
+  357a511507ad4cfeb8b1d888303ef1c4:
+    span:
+      start: 96
+      end: 117
+    metadata: {}
+  b3eaf79978e54c9898612a8217a9f6c6:
+    span:
+      start: 120
+      end: 141
+    metadata: {}
+  22a5bb8d284a4e15bf861759f274d0d3:
+    span:
+      start: 144
+      end: 165
+    metadata: {}
+  43ce251e4c8a4b54b66eb1d05a978201:
+    span:
+      start: 168
+      end: 178
+    metadata: {}
+  b4821129f06a4eac8f047511012ebaa4:
+    span:
+      start: 181
+      end: 202
+    metadata: {}
+  66fc07f0444442e1ad4660a4caf24f40:
+    span:
+      start: 205
+      end: 226
+    metadata: {}
+  a19e6e9abe7a4e55a3f7ce2dc9d05b24:
+    span:
+      start: 229
+      end: 250
+    metadata: {}
+  69c7c9b8daa3487aa0f601f5a9379823:
+    span:
+      start: 253
+      end: 274
+    metadata: {}
+  a12deb65c1804f31a5bcd83d9597e053:
+    span:
+      start: 277
+      end: 298
+    metadata: {}
+  6f544ea98ea743aca011f4fb58da6d8f:
+    span:
+      start: 301
+      end: 322
+    metadata: {}
+  13a708f9aa5242b19522ab5328c2b80f:
+    span:
+      start: 325
+      end: 346
+    metadata: {}
+  7f81563708ef4c30916c1f0e11d624d1:
+    span:
+      start: 349
+      end: 370
+    metadata: {}
+  37b0c486be8445fdbc7870cd7d95f0ee:
+    span:
+      start: 373
+      end: 394
+    metadata: {}
+  53fccc6f322e4d6bb75b0f528d00f1ef:
+    span:
+      start: 397
+      end: 418
+    metadata: {}
+  da5fcfadc37b453292b347356b81cf26:
+    span:
+      start: 421
+      end: 442
+    metadata: {}
+  1abc076d3aee48d29434f2cc70ca40e4:
+    span:
+      start: 445
+      end: 466
+    metadata: {}
